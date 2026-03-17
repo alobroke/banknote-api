@@ -27,7 +27,8 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 
-Run with Docker
+## Run with Docker
+```bash
 docker build -t banknote-api .
 docker run -p 8000:8000 banknote-api
 
