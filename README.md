@@ -20,7 +20,7 @@ This project is a Machine Learning API that predicts whether a banknote is genui
 - Curtosis
 - Entropy
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
